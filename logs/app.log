@@ -1,0 +1,55 @@
+2025-05-03 00:30:58,750 - INFO - 🔌 Connecting to MongoDB...
+2025-05-03 00:30:59,096 - INFO - 📥 Fetching documents from MongoDB...
+2025-05-03 00:31:00,694 - INFO - ✅ Document #1 retrieved, length: 129809 chars
+2025-05-03 00:31:00,694 - INFO - ✅ Document #2 retrieved, length: 5652 chars
+2025-05-03 00:31:00,694 - INFO - 📄 Total valid documents retrieved: 2
+2025-05-03 00:31:00,704 - INFO - 📦 Documents saved to 'data/documents.pkl'
+2025-05-03 01:09:24,254 - INFO - 📂 Loaded 2 documents from pickle file.
+2025-05-03 01:12:04,088 - INFO - 📂 Loaded 2 documents from pickle file.
+2025-05-03 01:22:09,604 - INFO - 📂 Loaded 2 documents from pickle file.
+2025-05-03 01:22:09,780 - WARNING - ⚠️ Skipping overly long chunk (129808 characters).
+2025-05-03 01:22:11,447 - INFO - 🧩 Created 1 semantic chunks.
+2025-05-03 01:22:12,874 - INFO - ✅ Vector embeddings saved to MongoDB.
+2025-05-04 01:12:13,650 - INFO - 📂 Loaded 2 documents from pickle file.
+2025-05-04 01:12:14,251 - WARNING - ⚠️ Skipping overly long chunk (129808 characters).
+2025-05-04 01:12:16,186 - INFO - 🧩 Created 1 semantic chunks.
+2025-05-04 01:12:17,692 - INFO - ✅ Vector embeddings saved to MongoDB.
+2025-05-04 01:19:17,782 - INFO - 📂 Loaded 2 documents from pickle file.
+2025-05-04 01:19:18,154 - WARNING - ⚠️ Skipping overly long chunk (129808 characters).
+2025-05-04 01:19:19,764 - INFO - 🧩 Created 1 semantic chunks.
+2025-05-04 01:19:21,073 - INFO - ✅ Vector embeddings saved to MongoDB.
+2025-05-04 01:20:39,111 - INFO - 📂 Loaded 2 documents from pickle file.
+2025-05-04 01:20:39,472 - WARNING - ⚠️ Skipping overly long chunk (129808 characters).
+2025-05-04 01:20:41,137 - INFO - 🧩 Created 1 semantic chunks.
+2025-05-04 01:20:42,339 - INFO - ✅ Vector embeddings saved to MongoDB.
+2025-05-04 01:20:42,387 - INFO - ✅ Connected to MongoDB successfully.
+2025-05-04 01:21:08,234 - INFO - 📂 Loaded 2 documents from pickle file.
+2025-05-04 01:21:08,578 - WARNING - ⚠️ Skipping overly long chunk (129808 characters).
+2025-05-04 01:21:10,414 - INFO - 🧩 Created 1 semantic chunks.
+2025-05-04 01:21:11,944 - INFO - ✅ Vector embeddings saved to MongoDB.
+2025-05-04 01:21:11,988 - INFO - ✅ Connected to MongoDB successfully.
+2025-05-04 01:23:22,106 - INFO - 📂 Loaded 2 documents from pickle file.
+2025-05-04 01:23:22,494 - WARNING - ⚠️ Skipping overly long chunk (129808 characters).
+2025-05-04 01:23:24,050 - INFO - 🧩 Created 1 semantic chunks.
+2025-05-04 01:23:25,060 - INFO - ✅ Vector embeddings saved to MongoDB.
+2025-05-04 01:23:25,095 - INFO - ✅ Connected to MongoDB successfully.
+2025-05-04 01:44:57,103 - INFO - 📂 Loaded 2 documents from pickle file.
+2025-05-04 01:44:57,480 - WARNING - ⚠️ Skipping overly long chunk (129808 characters).
+2025-05-04 01:44:59,236 - INFO - 🧩 Created 1 semantic chunks.
+2025-05-04 01:45:00,358 - INFO - ✅ Vector embeddings saved to MongoDB.
+2025-05-04 01:45:00,410 - INFO - ✅ Connected to MongoDB successfully.
+2025-05-04 01:53:26,146 - INFO - 📂 Loaded 2 documents from pickle file.
+2025-05-04 01:54:38,429 - INFO - 🧩 Created 152 text chunks using RecursiveCharacterTextSplitter.
+2025-05-04 01:54:42,214 - INFO - ✅ Vector embeddings saved to MongoDB.
+2025-05-04 01:56:54,227 - INFO - 📂 Loaded 2 documents from pickle file.
+2025-05-04 01:58:07,812 - INFO - 🧩 Created 152 text chunks using RecursiveCharacterTextSplitter.
+2025-05-04 01:58:12,654 - INFO - ✅ Vector embeddings saved to MongoDB.
+2025-05-04 01:58:12,694 - INFO - ✅ Connected to MongoDB successfully.
+2025-05-04 11:48:41,065 - INFO - 📂 Loaded 2 documents from pickle file.
+2025-05-04 11:50:02,453 - INFO - 🧩 Created 152 text chunks using RecursiveCharacterTextSplitter.
+2025-05-04 11:50:07,421 - INFO - ✅ Vector embeddings saved to MongoDB.
+2025-05-04 11:50:07,470 - INFO - ✅ Connected to MongoDB successfully.
+2025-05-04 12:13:28,840 - INFO - 📂 Loaded 2 documents from pickle file.
+2025-05-04 12:14:42,081 - INFO - 🧩 Created 152 text chunks using RecursiveCharacterTextSplitter.
+2025-05-04 12:14:47,652 - INFO - ✅ Vector embeddings saved to MongoDB.
+2025-05-04 12:14:47,684 - INFO - ✅ Connected to MongoDB successfully.

@@ -1,0 +1,12 @@
+End-to-End Rag application
+-- Tools used
+-- RAG architecture
+-- MongoDB
+-- RecursiveCharacterTextSplitter
+-- chunking and vector embeddings
+-- Python
+-- FastAPI
+-- AWS Bedrock
+-- amazon.titan-embed-text-v2:0
+-- llama-3.2
+-- Document retreiver Q/A application

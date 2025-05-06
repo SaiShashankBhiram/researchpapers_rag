@@ -1,0 +1,9 @@
+langchain
+langchain-community
+boto3
+awscli
+pymongo
+fastapi
+uvicorn
+numpy
+loguru
