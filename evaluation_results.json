@@ -1,0 +1,38 @@
+[
+    {
+        "question": "What is attention mechanism?",
+        "expected": "Attention mechanism helps models focus on important input parts.",
+        "predicted": "Based on the provided context, attention is a cognitive ability that enables concentration on some piece of incoming stimuli. It is something that we can summon up by will, but it's not the whole story. Even with clear intentions and goals, other aspects of the input can capture our attention and distract us if they are sufficiently salient.\n\nIn essence, attention is a mechanism that allows us to selectively focus on certain information while ignoring or suppressing other information that is not relevant to our current goals or tasks. This mechanism is not just a simple filtering process, but rather a complex cognitive ability that involves the interplay of multiple brain systems and mechanisms.\n\nThe context raises several questions about the attention mechanism, including whether we actively inhibit and suppress distractions or simply ignore them, what happens to the information we don't attend to, and what brain systems and mechanisms underlie attentional abilities. However, it does not provide a definitive answer to what the attention mechanism is, beyond describing it as a cognitive ability that enables concentration and selective focus.\n\nTherefore, based on the provided context, attention mechanism can be understood as a complex cognitive process that enables us to selectively focus on certain information while ignoring or suppressing other information, but the exact underlying mechanisms and processes are not fully explained.",
+        "bleu_score": 0.009029368377367225,
+        "rouge_scores": {
+            "rouge1": 0.04291845493562232,
+            "rouge2": 0.017316017316017313,
+            "rougeL": 0.034334763948497854
+        },
+        "similarity_score": null
+    },
+    {
+        "question": "How does transformer architecture work?",
+        "expected": "Transformers use self-attention for efficient processing.",
+        "predicted": "I don't know. The provided context does not mention transformer architecture, and it appears to be discussing electrophysiology and human attention, specifically the measurement of electrical activity in the brain and its relation to cognitive processes such as selective attention. There is no mention of transformer architecture, which is a concept typically associated with artificial intelligence and natural language processing.",
+        "bleu_score": 1.9257352961519595e-155,
+        "rouge_scores": {
+            "rouge1": 0.08823529411764706,
+            "rouge2": 0.0,
+            "rougeL": 0.08823529411764706
+        },
+        "similarity_score": null
+    },
+    {
+        "question": "What is selective attention in psychology?",
+        "expected": "Selective attention refers to the brain's ability to focus on relevant information while filtering out distractions.",
+        "predicted": "Selective attention in psychology refers to the cognitive process by which an individual selectively focuses on certain aspects of their environment, stimuli, or information while ignoring or filtering out other aspects. This process is necessary because the human brain is capable of processing only a limited quantity of information in both space and time, and there is too much information available at any given moment for us to cope with.\n\nAccording to the context, selective attention can be driven endogenously by our goals, such as searching for a particular friend or following an instruction, or exogenously by a salient or novel stimulus that captures attention away from the task at hand, such as a bright light or loud noise. This means that our attention can be directed voluntarily based on our internal goals and motivations or involuntarily by external stimuli that grab our attention.\n\nThe context also highlights that selective attention is not a random process, but rather a mechanism that selects the most important information for further processing. The type of information that we miss and the conditions under which we miss it are, therefore, the flip side of the cognitive processes involved in attentional selection. For example, being unaware of the posters on the wall at a party is a failure of selection that is a property of selectively searching for features of a friend.\n\nOverall, selective attention is a crucial cognitive function that enables us to prioritize and process relevant information in our environment, while ignoring or filtering out irrelevant information.",
+        "bleu_score": 0.03347257546141754,
+        "rouge_scores": {
+            "rouge1": 0.0959409594095941,
+            "rouge2": 0.04460966542750929,
+            "rougeL": 0.0959409594095941
+        },
+        "similarity_score": null
+    }
+]
