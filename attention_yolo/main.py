@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-from attention_yolo.data_retreiver import query_rag
+from attention_yolo.components.data_retreiver import query_rag
 
 app = FastAPI()
 

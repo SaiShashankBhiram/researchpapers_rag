@@ -50,7 +50,7 @@ def ingest_from_mongodb():
             DATA_DIR = os.path.join(BASE_DIR, "data")
             os.makedirs(DATA_DIR, exist_ok=True)
 
-            with open(os.path.join(DATA_DIR, "E:/ML projects/ragec2/data/documents.pkl"), "wb") as f:
+            with open(os.path.join(DATA_DIR, "documents.pkl"), "wb") as f:
                 pickle.dump(documents, f)
             
             logger.info("📦 Documents saved to 'data/documents.pkl'")

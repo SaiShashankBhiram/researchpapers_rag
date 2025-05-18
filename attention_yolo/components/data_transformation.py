@@ -11,9 +11,12 @@ import numpy as np
 from langchain.text_splitter import RecursiveCharacterTextSplitter  # New splitter
 from attention_yolo.exception import CustomException  # Import CustomException
 
+base_dir = os.path.dirname(os.path.abspath(__file__))
+file_path = os.path.join(base_dir, "../data/documents.pkl")
+
 # Step 1: Load documents from the pickle file
 try:
-    with open("E:/ML projects/ragec2/data/documents.pkl", "rb") as f:
+    with open(file_path, "rb") as f:
         documents = pickle.load(f)
     logger.info(f"📂 Loaded {len(documents)} documents from pickle file.")
 except Exception as e:
